@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amr20023/Game-over.git/static/css/main.bb651c39.css",
-    "main.js": "/amr20023/Game-over.git/static/js/main.3b4555d5.js",
+    "main.css": "/amr20023/Game-over.git/static/css/main.1968c4db.css",
+    "main.js": "/amr20023/Game-over.git/static/js/main.d14e2867.js",
     "static/media/fa-solid-900.ttf": "/amr20023/Game-over.git/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/Home.png": "/amr20023/Game-over.git/static/media/Home.0fddd1fbe0a5e0a0af93.png",
     "static/media/regisImg.jpg": "/amr20023/Game-over.git/static/media/regisImg.d5751ff804c935b205d3.jpg",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.ttf": "/amr20023/Game-over.git/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/amr20023/Game-over.git/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/amr20023/Game-over.git/index.html",
-    "main.bb651c39.css.map": "/amr20023/Game-over.git/static/css/main.bb651c39.css.map",
-    "main.3b4555d5.js.map": "/amr20023/Game-over.git/static/js/main.3b4555d5.js.map"
+    "main.1968c4db.css.map": "/amr20023/Game-over.git/static/css/main.1968c4db.css.map",
+    "main.d14e2867.js.map": "/amr20023/Game-over.git/static/js/main.d14e2867.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb651c39.css",
-    "static/js/main.3b4555d5.js"
+    "static/css/main.1968c4db.css",
+    "static/js/main.d14e2867.js"
   ]
 }
