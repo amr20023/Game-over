@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Game-over/static/css/main.32686160.css",
-    "main.js": "/Game-over/static/js/main.6edce414.js",
+    "main.css": "/Game-over/static/css/main.10c0957e.css",
+    "main.js": "/Game-over/static/js/main.5abdd0f6.js",
+    "static/media/game.jpg": "/Game-over/static/media/game.ebb7b62929ff285a70b1.jpg",
+    "static/media/games.jpg": "/Game-over/static/media/games.03407ace5ee591031150.jpg",
     "static/media/fa-solid-900.ttf": "/Game-over/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/Home.png": "/Game-over/static/media/Home.0fddd1fbe0a5e0a0af93.png",
-    "static/media/regisImg.jpg": "/Game-over/static/media/regisImg.d5751ff804c935b205d3.jpg",
     "static/media/fa-brands-400.ttf": "/Game-over/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/logo.png": "/Game-over/static/media/logo.548dc5719c2345c22eef.png",
     "static/media/fa-solid-900.woff2": "/Game-over/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
@@ -14,11 +15,11 @@
     "static/media/fa-v4compatibility.ttf": "/Game-over/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/Game-over/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/Game-over/index.html",
-    "main.32686160.css.map": "/Game-over/static/css/main.32686160.css.map",
-    "main.6edce414.js.map": "/Game-over/static/js/main.6edce414.js.map"
+    "main.10c0957e.css.map": "/Game-over/static/css/main.10c0957e.css.map",
+    "main.5abdd0f6.js.map": "/Game-over/static/js/main.5abdd0f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.32686160.css",
-    "static/js/main.6edce414.js"
+    "static/css/main.10c0957e.css",
+    "static/js/main.5abdd0f6.js"
   ]
 }
